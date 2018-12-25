@@ -1,0 +1,18 @@
+{
+  "name": "@believer/card",
+  "version": "0.0.0",
+  "bin": "./bin/card.js",
+  "keywords": [
+    "npm card",
+    "npm",
+    "card"
+  ],
+  "author": "believer <rickard.laurin@gmail.com>",
+  "license": "MIT",
+  "description": "My npm card",
+  "devDependencies": {},
+  "dependencies": {
+    "boxen": "2.1.0",
+    "chalk": "2.4.1"
+  }
+}
