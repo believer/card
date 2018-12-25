@@ -1,6 +1,6 @@
 {
   "name": "@believer/card",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "bin": "./bin/card.js",
   "keywords": [
     "npm card",
