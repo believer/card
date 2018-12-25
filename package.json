@@ -7,6 +7,9 @@
     "npm",
     "card"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "believer <rickard.laurin@gmail.com>",
   "license": "MIT",
   "description": "My npm card",
